@@ -8,6 +8,8 @@ I use [Overleaf](https://www.overleaf.com/) as my LaTeX editor.
 The main.tex file is the main file (No shit, Sherlock). This file references the other .tex files.
 For referencing I use the apacite package, this follows APA 6th Edition rules. You can find more about the package via [apacite.pdf](apacite.pdf). Use "A study \cite{lastname2025entry}..." for citations, or "In a study by Lastname \citeyear{lastname2025entry}..." for intext citations.
 
+The standard setting is to show the showcase.tex file. If you want to write a paper yourself, change the main.tex file to reference text.tex instead of the current showcase.tex file.
+
 ## 🔨 Customization
 
 You can modify the files to suit your preferences:
