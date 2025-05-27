@@ -25,4 +25,13 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for more
 This script uses various LaTeX tools, such as hyperref, apacite and fancyhdr.
 Thanks to all contributors to the Overleaf help guides used in this setup.
 
-![image](https://github.com/user-attachments/assets/4d585657-5e63-4431-8009-2c92c186ea40)
+
+
+
+
+
+
+
+|![Cover page](https://github.com/user-attachments/assets/d88bbaef-2fc4-4729-b154-21c9baf1dedf) | ![Other pages](https://github.com/user-attachments/assets/79877e31-a70d-4ede-8819-d4e40efa32c2)        |
+| ---------- | ------------------- |
+|            |                     |
