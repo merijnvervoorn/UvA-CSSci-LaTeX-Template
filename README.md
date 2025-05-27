@@ -28,10 +28,8 @@ Thanks to all contributors to the Overleaf help guides used in this setup.
 
 
 
+| ![Cover page](https://github.com/user-attachments/assets/e94852c0-6d77-403c-a0df-11bf3237617c)           |  ![Other pages](https://github.com/user-attachments/assets/79877e31-a70d-4ede-8819-d4e40efa32c2)                   | ![References list](https://github.com/user-attachments/assets/0908387a-503a-44aa-af15-30f6c0c41170)         |
+| ---------- | ------------------- | -------- |  
+|            |                     |          |
 
 
-
-
-|![Cover page](https://github.com/user-attachments/assets/d88bbaef-2fc4-4729-b154-21c9baf1dedf) | ![Other pages](https://github.com/user-attachments/assets/79877e31-a70d-4ede-8819-d4e40efa32c2)        |
-| ---------- | ------------------- |
-|            |                     |
